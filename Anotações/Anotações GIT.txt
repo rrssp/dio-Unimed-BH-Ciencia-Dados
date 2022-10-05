@@ -1,1 +1,8 @@
 Já fiz o curso de git
+
+Comandos para sicronizar repositorios
+
+1 - git status
+2 - git add .   (para adicionar todos os arquivos)
+3 - git commit -m "Anotações comandos git/github"
+4 - git push origin main
